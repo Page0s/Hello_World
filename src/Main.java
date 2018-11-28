@@ -1,3 +1,5 @@
+package com.mycompany.myapp;
+
 public class Main {
 
     public static void main(String[] args) {
