@@ -5,4 +5,8 @@ public class Main {
         System.out.println("AGUI-1 branch added");
         System.out.println("Add new description");
     }
+
+    public static void agui_1_test_method(){
+        //TODO create new function
+    }
 }
