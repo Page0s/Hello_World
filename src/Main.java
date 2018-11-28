@@ -6,7 +6,11 @@ public class Main {
         System.out.println("Add new description");
     }
 
-    public static void agui_1_test_method(){
-        //TODO create new function
+    public static void aguiOneTestMethod(){
+        //TODO add new function
+    }
+
+    public static void aguiTwoTestMethod(){
+        //TODO add new function
     }
 }
