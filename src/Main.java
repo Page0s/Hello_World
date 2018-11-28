@@ -11,6 +11,6 @@ public class Main {
     }
 
     public static void aguiTwoTestMethod(){
-        //TODO add new function
+        System.out.println("branch AGUI-2 is controlled from IntelliJ GUI");
     }
 }
