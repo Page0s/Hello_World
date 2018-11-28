@@ -7,7 +7,7 @@ public class Main {
     }
 
     public static void aguiOneTestMethod(){
-        //TODO add new function
+        System.out.println("branch AGUI-1 is controlled from git console");
     }
 
     public static void aguiTwoTestMethod(){
