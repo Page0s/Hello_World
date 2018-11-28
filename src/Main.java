@@ -8,6 +8,9 @@ public class Main {
 
     public static void aguiOneTestMethod(){
         System.out.println("branch AGUI-1 is controlled from git console");
+
+        int counter = 0;
+        System.out.println("Add couunt variable");
     }
 
     public static void aguiTwoTestMethod(){
