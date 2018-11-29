@@ -11,6 +11,8 @@ public class Main {
 
     public static void aguiOneTestMethod(){
         System.out.println("branch AGUI-1 is controlled from git console");
+        System.out.println("adding more to text");
+        System.out.println("adding new stuff");
 
         int counter = 0;
         System.out.println("Add couunt variable");
