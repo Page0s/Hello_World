@@ -1,4 +1,4 @@
-package com.mycompany.myapp;
+package com.mycompany.myapp.src.com.mycompany.myapp;
 
 public class Main {
 
@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("AGUI-1 branch added");
         System.out.println("Add new description");
+        System.out.println("add package for main method");
     }
 
     public static void aguiOneTestMethod(){
