@@ -13,6 +13,7 @@ public class Main {
         System.out.println("branch AGUI-1 is controlled from git console");
         System.out.println("adding more to text");
         System.out.println("adding new stuff");
+        System.out.println("Forgot how to push!");
 
         int counter = 0;
         System.out.println("Add couunt variable");
